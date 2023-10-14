@@ -1,3 +1,4 @@
+
 import type { Config } from 'tailwindcss'
 import { colors } from './colors'
 import { typography } from './typography'
