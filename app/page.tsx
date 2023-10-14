@@ -1,6 +1,6 @@
 
 import Image from 'next/image';
-import ShowcasePage from './ShowcasePage'; // Importing ShowcasePage
+import ShowcasePage from '../components/ShowcasePage'; // Importing ShowcasePage
 
 export default function Home() {
   return (
